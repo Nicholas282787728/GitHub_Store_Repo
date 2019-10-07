@@ -3,3 +3,5 @@ SQL TRUNCATION ATTACKS: https://resources.infosecinstitute.com/sql-truncation-at
 https://blog.lucideus.com/2018/03/sql-truncation-attack-2018-lucideus.html
 
 FBCTF: writeups  https://medium.com/bugbountywriteup/solving-each-and-every-fb-ctf-challenge-part-1-4bce03e2ecb0
+
+Crypt- weak RSA: picoctf: https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Security_and_practical_considerations
