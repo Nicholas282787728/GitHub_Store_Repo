@@ -1,0 +1,8 @@
+Date: 12/11/19
+Command Injections
+
+Used to inject system commands onto the webserver
+it occurs when the webserver takes system  commands to process input
+DVWA low
+command:  ; cat index.php
+
